@@ -1,4 +1,3 @@
-# NoFile stealer
 # Chromium browsers
 - CC
 - Autofill
